@@ -83,8 +83,8 @@ Performance Optimizations
 
 # 🔄 State Transitions
 
-INIT → RUNNING → (collision) → GAME_OVER → (retry) → RUNNING
-         ↑_________________________________________|
+<img width="275" height="40" alt="image" src="https://github.com/user-attachments/assets/f88b5d59-5694-479b-bc83-d3958e335a79" />
+
 
 # 📊 Scoring System
   - 1 point per apple
