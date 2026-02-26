@@ -1,4 +1,4 @@
-# Java Snake Games
+# Java Snake Game
 
 # 🐍 Snake Game System Explanation
 This is a classic Snake game implemented in Java Swing with modern features like a restart button and score tracking. Let me break down the system:
